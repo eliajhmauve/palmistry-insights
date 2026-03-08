@@ -103,7 +103,7 @@ export default function AnalysisReport() {
             <div className="h-px flex-1 bg-gold/30" />
           </div>
           <p className="text-shimmer text-2xl font-black tracking-[0.15em] mb-2">手相解析報告</p>
-          <p className="text-gold/50 text-xs tracking-widest">PALM DESTINY ANALYSIS · 福星何大師</p>
+          <p className="text-gold/50 text-xs tracking-widest">PALM DESTINY ANALYSIS · 福青施老師</p>
 
           {/* Mode Badge */}
           <div className="flex justify-center gap-2 mt-4">

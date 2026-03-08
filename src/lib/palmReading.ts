@@ -159,7 +159,7 @@ export function generatePalmReport(features: PalmFeatures): string {
   const inspirationalQuote = `
 > *「命運不是寫在石頭上的判決，而是刻在你手中的可能性。每一道掌紋，都是你靈魂在時間長河中留下的印記。」*
 >
-> *— 福星何大師*`;
+> *— 福青施老師*`;
 
   const fableStory = `
 ## 🌿 掌紋的寓言故事
@@ -186,7 +186,7 @@ export function generatePalmReport(features: PalmFeatures): string {
 **解析日期：** ${new Date().toLocaleDateString("zh-TW", { year: "numeric", month: "long", day: "numeric" })}
 **性別：** ${genderStr}
 **分析模式：** ${features.analysisMode === "photo" ? "拍照分析" : "手相復盤"}
-**署名：** 福星何大師
+**署名：** 福青施老師
 
 ---
 
@@ -282,7 +282,7 @@ ${fableStory}
 
 ---
 
-*本報告由 **福星何大師** 掌紋命運觀測站生成，僅供人生探索與自我認識之參考。命運之鑰，始終握在您自己手中。*
+*本報告由 **福青施老師** 掌紋命運觀測站生成，僅供人生探索與自我認識之參考。命運之鑰，始終握在您自己手中。*
 `;
 }
 
