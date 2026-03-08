@@ -29,7 +29,7 @@ export default function HomeContent() {
             </div>
           </div>
           <div className="text-right">
-            <p className="text-gold/80 text-xs tracking-[0.2em]">福星何大師</p>
+            <p className="text-gold/80 text-xs tracking-[0.2em]">福青施老師</p>
           </div>
         </div>
       </header>
