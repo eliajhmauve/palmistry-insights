@@ -186,7 +186,7 @@ export function generatePalmReport(features: PalmFeatures): string {
 **解析日期：** ${new Date().toLocaleDateString("zh-TW", { year: "numeric", month: "long", day: "numeric" })}
 **性別：** ${genderStr}
 **分析模式：** ${features.analysisMode === "photo" ? "拍照分析" : "手相復盤"}
-**署名：** 福星何大師
+**署名：** 福青施老師
 
 ---
 
