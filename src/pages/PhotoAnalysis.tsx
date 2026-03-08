@@ -357,7 +357,7 @@ function PageHeader({ title, subtitle, onBack }: { title: string; subtitle: stri
           <p className="text-gold font-black text-base tracking-wide">{title}</p>
           <p className="text-gold/50 text-[10px] tracking-widest">{subtitle}</p>
         </div>
-        <div className="ml-auto text-gold/40 text-xs">福星何大師</div>
+        <div className="ml-auto text-gold/40 text-xs">福青施老師</div>
       </div>
     </header>
   );

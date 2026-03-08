@@ -93,7 +93,7 @@ export default function PalmReview() {
             <p className="font-black text-base tracking-wide" style={{ color: "hsl(0 85% 65%)" }}>手相復盤功能</p>
             <p className="text-gold/50 text-[10px] tracking-widest">勾選特徵・生成解析報告</p>
           </div>
-          <div className="ml-auto text-gold/40 text-xs">福星何大師</div>
+          <div className="ml-auto text-gold/40 text-xs">福青施老師</div>
         </div>
       </header>
 

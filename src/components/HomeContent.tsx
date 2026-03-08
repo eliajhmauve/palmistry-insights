@@ -210,7 +210,7 @@ export default function HomeContent() {
       <footer className="relative z-10 border-t-4 border-gold" style={{ background: "hsl(var(--cosmos))" }}>
         <div className="container mx-auto px-4 py-6 flex flex-col md:flex-row items-center justify-between gap-2">
           <p className="text-gold/60 text-xs tracking-widest">命運紋路的訊息 · 生命能量的流動</p>
-          <p className="text-gold/40 text-xs">© 福星何大師 · 掌紋命運觀測站</p>
+          <p className="text-gold/40 text-xs">© 福青施老師 · 掌紋命運觀測站</p>
         </div>
       </footer>
     </div>

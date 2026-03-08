@@ -133,7 +133,7 @@ export default function SplashScreen({ onComplete }: SplashScreenProps) {
 
       {/* Subtitle */}
       <div className="mt-4 animate-fade-up" style={{ animationDelay: "1.2s", animationFillMode: "both", opacity: 0 }}>
-        <p className="text-gold-light/60 text-xs tracking-widest">福星何大師 · 解讀掌中的生命軌跡</p>
+        <p className="text-gold-light/60 text-xs tracking-widest">福青施老師 · 解讀掌中的生命軌跡</p>
       </div>
     </div>
   );
