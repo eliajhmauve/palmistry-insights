@@ -17,7 +17,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter>
+      <BrowserRouter basename="/palmistry-insights">
         <Routes>
           <Route path="/" element={<Index />} />
           <Route path="/photo-analysis" element={<PhotoAnalysis />} />
